@@ -1,0 +1,14 @@
+D:\Current Projects\C#\LibraryForm\bin\Debug\net9.0-windows\LibraryForm.exe
+D:\Current Projects\C#\LibraryForm\bin\Debug\net9.0-windows\LibraryForm.deps.json
+D:\Current Projects\C#\LibraryForm\bin\Debug\net9.0-windows\LibraryForm.runtimeconfig.json
+D:\Current Projects\C#\LibraryForm\bin\Debug\net9.0-windows\LibraryForm.dll
+D:\Current Projects\C#\LibraryForm\bin\Debug\net9.0-windows\LibraryForm.pdb
+D:\Current Projects\C#\LibraryForm\obj\Debug\net9.0-windows\LibraryForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Current Projects\C#\LibraryForm\obj\Debug\net9.0-windows\LibraryForm.AssemblyInfoInputs.cache
+D:\Current Projects\C#\LibraryForm\obj\Debug\net9.0-windows\LibraryForm.AssemblyInfo.cs
+D:\Current Projects\C#\LibraryForm\obj\Debug\net9.0-windows\LibraryForm.csproj.CoreCompileInputs.cache
+D:\Current Projects\C#\LibraryForm\obj\Debug\net9.0-windows\LibraryForm.dll
+D:\Current Projects\C#\LibraryForm\obj\Debug\net9.0-windows\refint\LibraryForm.dll
+D:\Current Projects\C#\LibraryForm\obj\Debug\net9.0-windows\LibraryForm.pdb
+D:\Current Projects\C#\LibraryForm\obj\Debug\net9.0-windows\LibraryForm.genruntimeconfig.cache
+D:\Current Projects\C#\LibraryForm\obj\Debug\net9.0-windows\ref\LibraryForm.dll

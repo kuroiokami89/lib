@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryForm", "LibraryForm.csproj", "{44FEC54A-CF37-C968-89D3-EF7DCC4250D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44FEC54A-CF37-C968-89D3-EF7DCC4250D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FEC54A-CF37-C968-89D3-EF7DCC4250D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FEC54A-CF37-C968-89D3-EF7DCC4250D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FEC54A-CF37-C968-89D3-EF7DCC4250D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B21F9E98-311A-4098-B8D0-C9566E3200B5}
+	EndGlobalSection
+EndGlobal
